@@ -1,6 +1,4 @@
-# genetic password guess
 import random
-
 
 def _generate_parent(length, geneSet):
     genes = []
